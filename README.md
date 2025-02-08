@@ -4,10 +4,14 @@
   I love to build dashboards, and reports and tell stories with data visualizations using Excel, tableau, and R Markdown.
   I am passionate about leveraging industry best practices and innovative technologies, I am eager to connect with global recruiters and clients to contribute to impactful projects and     
   drive continuous improvement.
-  
+
   👀 I’m interested in working on various projects to help companies and businesses make informed data-driven decisions.
   
   🌱 I’m currently learning Python and improving my skills in R programming
+
+  
+  If you are looking for a data analyst who pays attention to details, has an analytical mindset, and a good work ethic, and delivers on time with precision and accuracy, then you have found me.
+  Let's Connect to work together.
   📫 How to reach me [Email](chidozieokuu@gamil.com), [Whatsapp Number](+2348034155411)
 
 
