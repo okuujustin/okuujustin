@@ -6,6 +6,7 @@
   drive continuous improvement.
   
   👀 I’m interested in working on various projects to help companies and businesses make informed data-driven decisions.
+  
   🌱 I’m currently learning Python and improving my skills in R programming
   📫 How to reach me [Email](chidozieokuu@gamil.com), [Whatsapp Number](+2348034155411)
 
