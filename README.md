@@ -1,0 +1,16 @@
+- 👋 Hello! I am Okuu Justin, an entry-level data analyst.
+- I am well-equipped to work with companies in various areas, such as data sorting and filtering, Using pivot tables to summarise data,
+- Employing Vloopup/Xlookup and Match/Index to gather data from different worksheets,
+- conducting data wrangling and manipulations using SQL Server,
+- and leveraging innovative ideas and technologies to maximize efficiency and value.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me [Email](chidozieokuu@gamil.com)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+okuujustin/okuujustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
