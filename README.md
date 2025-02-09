@@ -5,6 +5,7 @@
   I love to build dashboards, and reports and tell stories with data visualizations using Excel, tableau, and R Markdown.
   I am passionate about leveraging industry best practices and innovative technologies, I am eager to connect with global recruiters and clients to contribute to impactful projects and   
   drive continuous improvement.
+  
   👀 I’m interested in working on various projects to help companies and businesses make informed data-driven decisions.
  🌱 I’m currently improving my skills in R programming
 
