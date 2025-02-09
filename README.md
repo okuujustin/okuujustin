@@ -8,7 +8,7 @@
   👀 I’m interested in working on various projects to help companies and businesses make informed data-driven decisions.
  🌱 I’m currently improving my skills in R programming
  
- 
+ ![table]
  Excel	SQL	Power BI	Tableau	Google Sheets
 Excel	SQL	Power BI	Tableau	Google Sheets
 
