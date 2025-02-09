@@ -8,6 +8,9 @@
   👀 I’m interested in working on various projects to help companies and businesses make informed data-driven decisions.
  🌱 I’m currently improving my skills in R programming
  
+ 
+ Excel	SQL	Power BI	Tableau	Google Sheets
+Excel	SQL	Power BI	Tableau	Google Sheets
 
 
   If you are looking for a data analyst who pays attention to details, has an analytical mindset, and a good work ethic, and delivers on time with precision and accuracy, then you have found me.
