@@ -46,7 +46,7 @@
     </tr>
   </tbody>
 </table>
-📫 How to reach me [Email](chidozieokuu@gamil.com), [Whatsapp Number](+2348034155411)
+
 
   ### **I have completed a couple of projects and saved them  as repositories** 
 
