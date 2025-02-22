@@ -12,7 +12,41 @@
 
 
   If you are looking for a data analyst who pays attention to details, has an analytical mindset, and a good work ethic, and delivers on time with precision and accuracy, then you have found me.
-  Let's Connect to work together. 📫 How to reach me [Email](chidozieokuu@gamil.com), [Whatsapp Number](+2348034155411)
+  Let's Connect to work together. 
+  
+  
+  ## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:chidozieokuu@gmail.com">chidozieokuu@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 8034155411, (234) 8115406665 </td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Abuja, Nigeria</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="okuujustin.cv.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/justinokuu/">The things I do daily on LinkedIn</a></td>
+    </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://www.youtube.com/@techwalldatahub">Watch my tutorials on YouTube</a></td>
+    </tr>
+  </tbody>
+</table>
+📫 How to reach me [Email](chidozieokuu@gamil.com), [Whatsapp Number](+2348034155411)
 
   ### **I have completed a couple of projects and saved them  as repositories** 
 
