@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@techwalldatahub">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/channel/UCOL_IFYbJo-j-P3UC_8cnSA?sub_confirmation=1">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
