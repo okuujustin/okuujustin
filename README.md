@@ -1,18 +1,18 @@
   👋 Hello there
-  I am Okuu Justin, an entry-level data analyst.
-  I am well-equipped to work with companies in various areas, such as data sorting and filtering, Using pivot tables to summarise data, employing Vloopup/Xlookup and Match/Index to 
+  I am Okuu Justin, a data analyst.
+  I am well-equipped to work with companies in various areas, such as data sorting and filtering, using pivot tables to summarise data, employing Vlookup/Xlookup and Match/Index to 
   gather  data from different worksheets, conduct data wrangling and manipulations using SQL Server, and leverage innovative ideas and technologies to maximize efficiency and value.
-  I love to build dashboards, and reports and tell stories with data visualizations using Excel, tableau, and R Markdown.
+  I love to build dashboards, reports, and tell stories with data visualizations using Excel, Tableau, and R Markdown.
   I am passionate about leveraging industry best practices and innovative technologies, I am eager to connect with global recruiters and clients to contribute to impactful projects and   
   drive continuous improvement.
   
-  👀 I’m interested in working on various projects to help companies and businesses make informed data-driven decisions.
+  👀 I’m interested in working on various projects to help companies and businesses make informed, data-driven decisions.
  🌱 I’m currently improving my skills in R programming
 
 
 
   If you are looking for a data analyst who pays attention to details, has an analytical mindset, and a good work ethic, and delivers on time with precision and accuracy, then you have found me.
-  Let's Connect to work together. 
+  Let's connect to work together. 
   
   
   ## CONTACT DETAILS
