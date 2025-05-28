@@ -2,7 +2,7 @@
   I am Okuu Justin, a data analyst.
   I am well-equipped to work with companies in various areas, such as data sorting and filtering, using pivot tables to summarise data, employing Vlookup/Xlookup and Match/Index to 
   gather  data from different worksheets, conduct data wrangling and manipulations using SQL Server, and leverage innovative ideas and technologies to maximize efficiency and value.
-  I love to build dashboards, reports, and tell stories with data visualizations using Excel, Tableau, and R Markdown.
+  I enjoy building dashboards, reports, and telling stories with data visualizations using Excel, Tableau, and R Markdown.
   I am passionate about leveraging industry best practices and innovative technologies, I am eager to connect with global recruiters and clients to contribute to impactful projects and   
   drive continuous improvement.
   
@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="okuujustin.cv.pdf">Download my CV</a></td>
+      <td><a href="OKUU JUSTIN CHIDOZIE DATA ANALYST RESUME.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
